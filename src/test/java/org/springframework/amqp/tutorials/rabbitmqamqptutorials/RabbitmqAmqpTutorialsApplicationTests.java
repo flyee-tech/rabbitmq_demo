@@ -1,4 +1,4 @@
-package com.springframework.amqp.tutorials.rabbitmqamqptutorials;
+package org.springframework.amqp.tutorials.rabbitmqamqptutorials;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

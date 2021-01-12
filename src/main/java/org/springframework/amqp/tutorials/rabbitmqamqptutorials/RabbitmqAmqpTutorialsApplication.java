@@ -1,4 +1,4 @@
-package com.springframework.amqp.tutorials.rabbitmqamqptutorials;
+package org.springframework.amqp.tutorials.rabbitmqamqptutorials;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

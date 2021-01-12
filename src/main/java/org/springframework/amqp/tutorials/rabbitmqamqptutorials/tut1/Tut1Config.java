@@ -1,4 +1,4 @@
-package com.springframework.amqp.tutorials.rabbitmqamqptutorials.tut1;
+package org.springframework.amqp.tutorials.rabbitmqamqptutorials.tut1;
 
 import org.springframework.amqp.core.Queue;
 import org.springframework.context.annotation.Bean;
